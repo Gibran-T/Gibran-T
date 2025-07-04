@@ -11,7 +11,8 @@ Passionate about automated testing, software quality, and international collabor
 - 👨‍💻 **QA Engineer** with experience in Pytest, Selenium, REST API testing, ERP systems, Logistics & Supply Chain
 - 🌍 Worked in Brazil, Canada, and the USA
 - 💬 Fluent in **English**, **French**, and **Portuguese**
-- 🎓 Graduate of TripleTen’s QA Bootcamp (Canada)
+- 🎓 Graduate of TripleTen’s QA Bootcamp (Canada), Logistics, Supply Chain, International Trade and Programming analyst in Montreal CA
+  
 
 ---
 
