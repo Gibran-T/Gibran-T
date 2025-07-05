@@ -47,7 +47,8 @@ Interactive digital menu system for Eggspectation Montréal – tablet-optimized
 
 ---
 
-### 🧰 Tech Stack
+## 🧰 [Tech Stack](https://shields.io/)
+
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
 ![Pytest](https://img.shields.io/badge/Pytest-0A0A0A?style=for-the-badge&logo=pytest&logoColor=white)
@@ -56,22 +57,40 @@ Interactive digital menu system for Eggspectation Montréal – tablet-optimized
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
-## 
 
-- [React](https://reactjs.org/) – Biblioteca JavaScript para construção de interfaces de usuário
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) – Estilização visual de páginas web
+##
 
-### Styling Options 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- [CSS Modules](https://github.com/css-modules/css-modules) – CSS scoped por componente
-- [Tailwind CSS](https://tailwindcss.com/) – Framework utilitário para CSS rápido e responsivo
-- [Styled Components](https://styled-components.com/) – CSS-in-JS para React
-- [SASS](https://sass-lang.com/) – Pré-processador CSS com sintaxe avançada
+
+### 🎨 Styling Options
+
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
+- [CSS Modules](https://github.com/css-modules/css-modules) – CSS scoped por componente  
+- [Tailwind CSS](https://tailwindcss.com/) – Framework utilitário para CSS rápido e responsivo  
+- [Styled Components](https://styled-components.com/) – CSS-in-JS para React  
+- [SASS](https://sass-lang.com/) – Pré-processador CSS com sintaxe avançada  
+
+
+
+---
+
+✅ **Highlights**:
+- Component-based architecture
+- Modern responsive CSS styling
+- Clean folder structure
+- Easy to maintain and scale
 
 ---
 
 ### 💼 Open to freelance QA & automation projects  
-📧 Reach me at **[gibranlog@gmail.com](mailto:gibranlog@gmail.com)**
+
+📬 Reach out: **[gibranlog@gmail.com](mailto:gibranlog@gmail.com)**  
+🌍 Available for remote work across North America & Europe  
+
 
 ---
 
