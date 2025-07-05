@@ -1,5 +1,5 @@
 🔍 QA Engineer | ERP & Logistics Expert | Fluent in EN · FR · PT  
-Passionate about quality, automation and building scalable systems across continents.
+Passionate about quality, automation and building scalable systems abroad.
 
 # 👋 Hi, I’m Thiago Gibran (Gibran_QA)
 
