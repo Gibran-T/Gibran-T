@@ -56,17 +56,22 @@ Interactive digital menu system for Eggspectation Montréal – tablet-optimized
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
+## 
+
+- [React](https://reactjs.org/) – Biblioteca JavaScript para construção de interfaces de usuário
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) – Estilização visual de páginas web
+
+### Styling Options 
+
+- [CSS Modules](https://github.com/css-modules/css-modules) – CSS scoped por componente
+- [Tailwind CSS](https://tailwindcss.com/) – Framework utilitário para CSS rápido e responsivo
+- [Styled Components](https://styled-components.com/) – CSS-in-JS para React
+- [SASS](https://sass-lang.com/) – Pré-processador CSS com sintaxe avançada
 
 ---
 
 ### 💼 Open to freelance QA & automation projects  
 📧 Reach me at **[gibranlog@gmail.com](mailto:gibranlog@gmail.com)**
-
----
-
-### 📈 My GitHub Activity
-
-[![Thiago's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gibran-T&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
