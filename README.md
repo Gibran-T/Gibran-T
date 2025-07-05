@@ -1,23 +1,25 @@
-🔍 **QA Engineer | ERP & Logistics Expert | Fluent in EN · FR · PT**  
-Passionate about quality, automation, and building scalable systems across borders.
+🔍 QA Engineer | ERP & Logistics Expert | Fluent in EN · FR · PT  
+Passionate about quality, automation and building scalable systems abroad.
 
-# 👋 Hi, I’m Thiago Gibran (Gibran_QA)
+# Hi, I’m Thiago Gibran (Gibran_QA)
 
 🇧🇷 Brazilian-born | 🇨🇦 Canadian Citizen | 🌎 Global QA Engineer
 
 ---
 
 ### 🧪 Quality Assurance Specialist
-Dedicated to delivering quality through automation, international collaboration, and technical versatility.
 
-- 👨‍💻 **QA Engineer** experienced in Pytest, Selenium, REST API testing, ERP systems, Logistics & Supply Chain  
-- 🌍 Professional experience in Brazil, Canada, and the USA  
+Passionate about automated testing, software quality, and international collaboration.
+
+- 👨‍💻 **QA Engineer** with experience in Pytest, Selenium, REST API testing, ERP systems, Logistics & Supply Chain  
+- 🌍 Worked in Brazil, Canada, and the USA  
 - 💬 Fluent in **English**, **French**, and **Portuguese**  
-- 🎓 Graduate of TripleTen’s QA Bootcamp (Canada), with academic background in Logistics, Supply Chain, and International Trade in Montreal  
+- 🎓 Graduate of TripleTen’s QA Bootcamp (Canada), with background in Logistics, Supply Chain, International Trade and Programming in Montreal  
 
 ---
 
-### 📊 Weekly Tech Focus
+### 📊 This week I worked with:
+
 ```
 Python (Pytest, Helpers)     ███████████████████░░   38%
 Selenium (Automation)        ██████████░░░░░░░░░░░░   22%
@@ -29,19 +31,64 @@ Postman / REST API Testing   █░░░░░░░░░░░░░░░░
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-#### 🔹 [QA-Brazil_Python_Automation](https://github.com/Gibran-T/QA-Brazil_Python_Automation)  
-Advanced Pytest + Selenium test framework using POM. Includes legacy scripts from Sprint 7 and full automation from Sprint 8.
+### 🧪 QA Automation Projects
 
-#### 🔹 [urban_routes_project](https://github.com/Gibran-T/urban_routes_project)  
-Full test design and regression testing for a web application. Includes test cases, bug reporting, and coverage documentation.
+- 🔹 [**QA-Brazil_Python_Automation**](https://github.com/Gibran-T/QA-Brazil_Python_Automation)  
+  Advanced Selenium test framework using Page Object Model (POM) with Pytest. Includes Sprint 7 setup and Sprint 8 automation.
 
-#### 🔹 [sprint_7_pytest](https://github.com/Gibran-T/sprint_7_pytest)  
-Base structure for web test automation. Setups for Pytest, helper scripts, and environment management.
+- 🔹 [**sprint_7_pytest**](https://github.com/Gibran-T/sprint_7_pytest)  
+  Project setup for test automation. Includes environment config, helper scripts, and data management with Pytest.
 
-#### 🔹 [eggspectation_digital_menu](https://github.com/Gibran-T/eggspectation_digital_menu)  
-Tablet-optimized, multilingual interactive menu system for Eggspectation Montréal. Connected to live promotions via Google Sheets API.
+- 🔹 [**urban_routes_project**](https://github.com/Gibran-T/urban_routes_project)  
+  Automated test scenarios for Urban Routes app: environment setup, test case skeletons, and backend validation.
+
+- 🔹 [**urban-routes-equivalence-tests**](https://github.com/Gibran-T/urban-routes-equivalence-tests)  
+  Manual test design applying **equivalence partitioning** and **boundary testing** to Urban Routes form validation.
+
+- 🔹 [**urban-routes-regression-tests**](https://github.com/Gibran-T/urban-routes-regression-tests)  
+  Full regression test suite for the Urban Routes API. Includes structured bug reports and REST validation.
+
+- 🔹 [**urban-lunch-mobile-tests**](https://github.com/Gibran-T/urban-lunch-mobile-tests)  
+  End-to-end testing of the Urban Lunch mobile app using exploratory, functional, and interrupt tests.
+
+- 🔹 [**urban-lunch-api-tests**](https://github.com/Gibran-T/urban-lunch-api-tests)  
+  Manual REST API testing with Postman logic, detailed test coverage, and backend analysis.
+
+---
+
+### 🧪 QA Bootcamp Sprints (TripleTen Projects)
+
+- 🔹 [**sprint-2-form-tests**](https://github.com/Gibran-T/sprint-2-form-tests)  
+  Validation logic for a form-based application. Strong focus on input rules and edge cases.
+
+- 🔹 [**sprint-3-ui-tests**](https://github.com/Gibran-T/sprint-3-ui-tests)  
+  Exploratory and structured UI tests. Covered layout issues, interaction bugs, and element visibility.
+
+- 🔹 [**sprint-4-api-tests**](https://github.com/Gibran-T/sprint-4-api-tests)  
+  Manual API tests on 6+ endpoints with clear bug documentation and regression coverage.
+
+- 🔹 [**sprint-6-database-tests**](https://github.com/Gibran-T/sprint-6-database-tests)  
+  Test design focused on database behavior, CRUD logic, and backend validation in real-world scenarios.
+
+---
+
+### 🖥️ Frontend/UI Projects
+
+- 🔹 [**eggspectation_digital_menu**](https://github.com/Gibran-T/eggspectation_digital_menu)  
+  Interactive digital menu system for a restaurant in Montreal. Tablet-ready, multilingual, and connected to live promotions via Google Sheets API.
+
+---
+
+### 🧪 Summary Table
+
+| 🧪 Category              | 📁 Repositories |
+|-------------------------|----------------|
+| QA Automation           | 7              |
+| QA Manual + API + DB    | 4              |
+| Frontend / UI Systems   | 1              |
+| Total                   | **13**         |
 
 ---
 
@@ -56,28 +103,21 @@ Tablet-optimized, multilingual interactive menu system for Eggspectation Montré
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🎨 Styling Tools
-
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-- [CSS Modules](https://github.com/css-modules/css-modules) – Component-scoped CSS  
-- [Tailwind CSS](https://tailwindcss.com/) – Utility-first responsive design  
-- [Styled Components](https://styled-components.com/) – CSS-in-JS for React  
-- [SASS](https://sass-lang.com/) – CSS preprocessor with advanced syntax  
-
 ---
 
-✅ **Highlights**
-- Modern test architecture with reusable components
-- Responsive design with internationalization support
-- Robust automation strategy for API and frontend
-- Organized project structure, easy to scale
+✅ **Highlights**:
+- Component-based architecture
+- Modern responsive CSS styling
+- Clean folder structure
+- Easy to maintain and scale
 
 ---
 
 ### 💼 Open to freelance QA & automation projects  
+
 📬 Reach out: **[gibranlog@gmail.com](mailto:gibranlog@gmail.com)**  
 🌍 Available for remote work across North America & Europe  
 
