@@ -69,5 +69,6 @@ Passionate about automated testing, software quality, and international collabor
 
 📫 **Open to freelance or remote roles in QA, ERP testing or logistics tech. Let's connect!**
 
-🧩 “Building quality through code, one test at a time.” – Thiago Gibran
-🔗 linkedin.com/in/thiago-gibran-a01489b5
+> 🧩 *“Building quality through code, one test at a time.” – Thiago Gibran*  
+> 🔗 [linkedin.com/in/thiago-gibran-a01489b5](https://www.linkedin.com/in/thiago-gibran-a01489b5)
+
