@@ -1,97 +1,82 @@
-🔍 QA Engineer | ERP & Logistics Expert | Fluent in EN · FR · PT  
-Passionate about quality, automation and building scalable systems abroad.
 
-# Hi, I’m Thiago Gibran (Gibran_QA)
+🔍 QA Engineer | ERP & Logistics Expert | Fluent in EN · FR · PT  
+Passionate about quality, automation and building scalable systems across borders.
+
+# 👋 Hi, I’m Thiago Gibran (Gibran_QA)
 
 🇧🇷 Brazilian-born | 🇨🇦 Canadian Citizen | 🌎 Global QA Engineer
 
 ---
 
-### 🧪 Quality Assurance Specialist
+## 🧪 Quality Assurance Specialist
 
-Passionate about automated testing, software quality, and international collaboration.
+Experienced in manual and automated testing, test case design, API/backend validation, and frontend UI logic.
 
-- 👨‍💻 **QA Engineer** with experience in Pytest, Selenium, REST API testing, ERP systems, Logistics & Supply Chain  
-- 🌍 Worked in Brazil, Canada, and the USA  
+- 👨‍💻 **QA Engineer** with expertise in Pytest, Selenium, REST APIs, ERP systems, Logistics & Supply Chain  
+- 🌍 Worked in **Brazil, Canada**, and the **USA**  
 - 💬 Fluent in **English**, **French**, and **Portuguese**  
-- 🎓 Graduate of TripleTen’s QA Bootcamp (Canada), with background in Logistics, Supply Chain, International Trade and Programming in Montreal  
+- 🎓 Graduate of TripleTen’s QA Bootcamp (Canada) | Logistics, Supply Chain & Programming in Montreal  
 
 ---
 
-### 📊 This week I worked with:
+## 📊 Tools I worked with recently:
 
-Python (Pytest, Helpers) ███████████████████░░ 38%
-Selenium (Automation) ██████████░░░░░░░░░░░░ 22%
-Jira (Bug Reports, Tracking) ████████░░░░░░░░░░░░░░ 18%
-JavaScript (Frontend) █████░░░░░░░░░░░░░░░░░ 10%
-TypeScript (Next.js, UI) ████░░░░░░░░░░░░░░░░░░ 8%
-Postman / REST API Testing █░░░░░░░░░░░░░░░░░░░░░ 4%
-
+```
+Python (Pytest, Helpers)     ███████████████████░░   38%
+Selenium (Automation)        ██████████░░░░░░░░░░░░   22%
+Jira (Bug Reports, Tracking) ████████░░░░░░░░░░░░░░   18%
+JavaScript (Frontend)        █████░░░░░░░░░░░░░░░░░   10%
+TypeScript (Next.js, UI)     ████░░░░░░░░░░░░░░░░░░    8%
+Postman / REST API Testing   █░░░░░░░░░░░░░░░░░░░░░    4%
+```
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧪 QA Automation Projects
+### 🔧 QA Automation Projects
 
-- 🔹 [**QA-Brazil_Python_Automation**](https://github.com/Gibran-T/QA-Brazil_Python_Automation)  
-  Advanced Selenium test framework using Page Object Model (POM) with Pytest. Includes Sprint 7 setup and Sprint 8 automation.
+- 🔹 [QA-Brazil_Python_Automation](https://github.com/Gibran-T/QA-Brazil_Python_Automation)  
+  Selenium test automation using Pytest and Page Object Model. Full regression for Urban Routes app.
 
-- 🔹 [**sprint_7_pytest**](https://github.com/Gibran-T/sprint_7_pytest)  
-  Project setup for test automation. Includes environment config, helper scripts, and data management with Pytest.
+- 🔹 [sprint_7_pytest](https://github.com/Gibran-T/sprint_7_pytest)  
+  Core setup for automated testing: virtual environment, helper scripts, modular structure.
 
-- 🔹 [**urban_routes_project**](https://github.com/Gibran-T/urban_routes_project)  
-  Automated test scenarios for Urban Routes app: environment setup, test case skeletons, and backend validation.
+- 🔹 [urban_routes_project](https://github.com/Gibran-T/urban_routes_project)  
+  Manual + automated tests of Urban Routes. Includes data structure, API logic, and visual testing.
 
-- 🔹 [**urban-routes-equivalence-tests**](https://github.com/Gibran-T/urban-routes-equivalence-tests)  
-  Manual test design applying **equivalence partitioning** and **boundary testing** to Urban Routes form validation.
+- 🔹 [urban-routes-equivalence-tests](https://github.com/Gibran-T/urban-routes-equivalence-tests)  
+  Equivalence class and boundary value tests for Urban Routes form. Includes detailed test matrix.
 
-- 🔹 [**urban-routes-regression-tests**](https://github.com/Gibran-T/urban-routes-regression-tests)  
-  Full regression test suite for the Urban Routes API. Includes structured bug reports and REST validation.
+- 🔹 [urban-routes-regression-tests](https://github.com/Gibran-T/urban-routes-regression-tests)  
+  Complete regression test suite for backend API, bug reporting and validation.
 
----
+### 📱 Urban Lunch Testing Projects
 
-### 📱 Urban Lunch App Testing
+- 🔹 [urban-lunch-mobile-tests](https://github.com/Gibran-T/urban-lunch-mobile-tests)  
+  Functional, exploratory and interrupt testing for Urban Lunch Android app.
 
-- 🔹 [**urban-lunch-mobile-tests**](https://github.com/Gibran-T/urban-lunch-mobile-tests)  
-  End-to-end testing of the Urban Lunch mobile app using exploratory, functional, and interrupt tests.
+- 🔹 [urban-lunch-api-tests](https://github.com/Gibran-T/urban-lunch-api-tests)  
+  REST API testing using Postman. Manual tests with clear bug reports.
 
-- 🔹 [**urban-lunch-api-tests**](https://github.com/Gibran-T/urban-lunch-api-tests)  
-  Manual REST API testing with Postman logic, detailed test coverage, and backend analysis.
+### 🧪 TripleTen Bootcamp Sprints
 
----
+- 🔹 [sprint-2-form-tests](https://github.com/Gibran-T/sprint-2-form-tests)  
+  Input field validations with edge case testing.
 
-### 🎓 QA Bootcamp Sprints (TripleTen Projects)
+- 🔹 [sprint-3-ui-tests](https://github.com/Gibran-T/sprint-3-ui-tests)  
+  Exploratory UI testing: layout, interaction bugs, visibility issues.
 
-- 🔹 [**sprint-2-form-tests**](https://github.com/Gibran-T/sprint-2-form-tests)  
-  Validation logic for a form-based application. Strong focus on input rules and edge cases.
+- 🔹 [sprint-4-api-tests](https://github.com/Gibran-T/sprint-4-api-tests)  
+  Manual API test coverage across 6+ endpoints.
 
-- 🔹 [**sprint-3-ui-tests**](https://github.com/Gibran-T/sprint-3-ui-tests)  
-  Exploratory and structured UI tests. Covered layout issues, interaction bugs, and element visibility.
+- 🔹 [sprint-6-database-tests](https://github.com/Gibran-T/sprint-6-database-tests)  
+  Tests for CRUD logic, DB integrity and real-case backend flow.
 
-- 🔹 [**sprint-4-api-tests**](https://github.com/Gibran-T/sprint-4-api-tests)  
-  Manual API tests on 6+ endpoints with clear bug documentation and regression coverage.
+### 🖥️ Frontend Projects
 
-- 🔹 [**sprint-6-database-tests**](https://github.com/Gibran-T/sprint-6-database-tests)  
-  Test design focused on database behavior, CRUD logic, and backend validation in real-world scenarios.
-
----
-
-### 🖥️ Frontend/UI Projects
-
-- 🔹 [**eggspectation_digital_menu**](https://github.com/Gibran-T/eggspectation_digital_menu)  
-  Interactive digital menu system for a restaurant in Montreal. Tablet-ready, multilingual, and connected to live promotions via Google Sheets API.
-
----
-
-### 📌 Summary Table
-
-| 🧪 Category              | 📁 Repositories |
-|-------------------------|----------------|
-| QA Automation           | 7              |
-| QA Manual + API + DB    | 4              |
-| Frontend / UI Systems   | 1              |
-| **Total**               | **13**         |
+- 🔹 [eggspectation_digital_menu](https://github.com/Gibran-T/eggspectation_digital_menu)  
+  Interactive multilingual digital menu for a Montreal restaurant. Tablet interface with Google Sheets integration.
 
 ---
 
@@ -105,24 +90,22 @@ Postman / REST API Testing █░░░░░░░░░░░░░░░░�
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 ---
 
 ✅ **Highlights**:
-- Component-based architecture
-- Modern responsive CSS styling
-- Clean folder structure
-- Easy to maintain and scale
+- POM-based architecture (Page Object Model)
+- Clean folder structure & reusable components
+- Strong testing logic: backend, UI, mobile, database
+- Clear and actionable bug reporting
 
 ---
 
-### 💼 Open to freelance QA & automation projects  
+### 💼 Open to freelance QA & automation work  
 
-📬 Reach out: **[gibranlog@gmail.com](mailto:gibranlog@gmail.com)**  
-🌍 Available for remote work across North America & Europe  
+📬 Contact: [gibranlog@gmail.com](mailto:gibranlog@gmail.com)  
+🌍 Available for remote work (Canada · US · Europe)  
 
 ---
 
