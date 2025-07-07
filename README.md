@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Thiago Gibran (Gibran_QA)
+# Hi, I’m Thiago Gibran (Gibran_QA)
 
 🇧🇷 Brazilian-born | 🇨🇦 Canadian Citizen | 🌍 Global QA Engineer
 
