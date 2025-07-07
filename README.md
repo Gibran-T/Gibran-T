@@ -1,104 +1,70 @@
 # 👋 Hi, I’m Thiago Gibran (Gibran_QA)
 
-🔍 **QA Engineer | ERP & Logistics Expert | Fluent in EN · FR · PT**  
-Passionate about quality, automation, and building scalable systems abroad.
-
 🇧🇷 Brazilian-born | 🇨🇦 Canadian Citizen | 🌍 Global QA Engineer
 
 ---
 
-## 🧪 Quality Assurance Specialist
+## 🎯 About Me
 
+**QA Engineer | ERP & Logistics Expert | Fluent in EN · FR · PT**  
 Passionate about automated testing, software quality, and international collaboration.
 
-- 👨‍💻 **QA Engineer** with experience in Pytest, Selenium, REST API testing, ERP systems, Logistics & Supply Chain  
+- ✅ QA Engineer with experience in Pytest, Selenium, REST API testing, ERP systems, Logistics & Supply Chain  
 - 🌍 Worked in Brazil, Canada, and the USA  
 - 💬 Fluent in **English**, **French**, and **Portuguese**  
 - 🎓 Graduate of TripleTen’s QA Bootcamp (Canada), with background in Logistics, Supply Chain, International Trade and Programming in Montreal  
 
 ---
 
-## 📊 This week I worked with:
-
-```
-Python (Pytest, Helpers)     ███████████████████░░   38%
-Selenium (Automation)        ██████████░░░░░░░░░░░░   22%
-Jira (Bug Reports, Tracking) ████████░░░░░░░░░░░░░░   18%
-JavaScript (Frontend)        █████░░░░░░░░░░░░░░░░░   10%
-TypeScript (Next.js, UI)     ████░░░░░░░░░░░░░░░░░░    8%
-Postman / REST API Testing   █░░░░░░░░░░░░░░░░░░░░░    4%
-```
-
----
-
 ## 🚀 Featured Projects
 
-### 🧪 QA Automation Projects
+### 🔧 Automation & Regression Testing
 
-- 🔹 [QA-Brazil_Python_Automation](https://github.com/Gibran-T/QA-Brazil_Python_Automation)  
-- 🔹 [sprint_7_pytest](https://github.com/Gibran-T/sprint_7_pytest)  
-- 🔹 [urban_routes_project](https://github.com/Gibran-T/urban_routes_project)  
-- 🔹 [urban-routes-equivalence-tests](https://github.com/Gibran-T/urban-routes-equivalence-tests)  
-- 🔹 [urban-routes-regression-tests](https://github.com/Gibran-T/urban-routes-regression-tests)  
+- [QA-Brazil_Python_Automation](https://github.com/Gibran-T/QA-Brazil_Python_Automation)  
+  Advanced Pytest + Selenium test framework using Page Object Model. Legacy scripts (Sprint 7) + full automation (Sprint 8).
 
-### 📱 Urban Lunch Testing Projects
+- [urban_routes_project](https://github.com/Gibran-T/urban_routes_project)  
+  Full test design and regression testing. Includes test cases, bug reports, and coverage.
 
-- 🔹 [urban-lunch-mobile-tests](https://github.com/Gibran-T/urban-lunch-mobile-tests)  
-- 🔹 [urban-lunch-api-tests](https://github.com/Gibran-T/urban-lunch-api-tests)  
+- [sprint_7_pytest](https://github.com/Gibran-T/sprint_7_pytest)  
+  Base setup for automation with helper functions and environment configs.
 
-### 📘 TripleTen Bootcamp Sprints
-
-- 🔹 [sprint-2-form-tests](https://github.com/Gibran-T/sprint-2-form-tests)  
-- 🔹 [sprint-3-ui-tests](https://github.com/Gibran-T/sprint-3-ui-tests)  
-- 🔹 [sprint-4-api-tests](https://github.com/Gibran-T/sprint-4-api-tests)  
-- 🔹 [sprint-6-database-tests](https://github.com/Gibran-T/sprint-6-database-tests)  
-
-### 🖥️ Frontend/UI Project
-
-- 🔹 [eggspectation_digital_menu](https://github.com/Gibran-T/eggspectation_digital_menu)  
+- [sprint_8_web_automation](https://github.com/Gibran-T/sprint_8_web_automation)  
+  Selenium-based automation project with POM and advanced validations.
 
 ---
 
-### 🧪 Summary Table
+## 🍽️ Eggspectation Digital Menu
 
-| 🧪 Category              | 📁 Repositories |
-|-------------------------|----------------|
-| QA Automation           | 5              |
-| QA Manual + API + DB    | 4              |
-| Mobile & Web Projects   | 2              |
-| Frontend / UI Systems   | 1              |
-| Total                   | **12**         |
+- [eggspectation_digital_menu](https://github.com/Gibran-T/eggspectation_digital_menu)  
+  Tablet-optimized multilingual menu for Eggspectation Montréal. Google Sheets integration for live promotions.
 
 ---
 
-## 🧰 Tech Stack
+## 📱 Urban Lunch Testing Projects
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
-![Pytest](https://img.shields.io/badge/Pytest-0A0A0A?style=for-the-badge&logo=pytest&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- [urban-lunch-mobile-tests](https://github.com/Gibran-T/urban-lunch-mobile-tests)  
+  Functional, exploratory and interrupt testing for Urban Lunch Android app.
+
+- [urban-lunch-api-tests](https://github.com/Gibran-T/urban-lunch-api-tests)  
+  REST API testing using Postman. Manual tests with clear bug reports.
 
 ---
 
-✅ **Highlights**:
-- Component-based architecture
-- Modern responsive CSS styling
-- Clean folder structure
-- Easy to maintain and scale
+## 📘 TripleTen Bootcamp Sprints
+
+- [sprint-2-form-tests](https://github.com/Gibran-T/sprint-2-form-tests)  
+  Input field validations with edge case testing.
+
+- [sprint-3-ui-tests](https://github.com/Gibran-T/sprint-3-ui-tests)  
+  Exploratory UI testing: layout, interaction bugs, visibility issues.
+
+- [sprint-4-api-tests](https://github.com/Gibran-T/sprint-4-api-tests)  
+  Manual API test coverage across 6+ endpoints.
+
+- [sprint-6-database-tests](https://github.com/Gibran-T/sprint-6-database-tests)  
+  Tests for CRUD logic, DB integrity and real-case backend flow.
 
 ---
 
-### 💼 Open to freelance QA & automation projects  
-
-📬 Reach out: **[gibranlog@gmail.com](mailto:gibranlog@gmail.com)**  
-🌍 Available for remote work across North America & Europe  
-
----
-
-> “Building quality through code, one test at a time.” – *Thiago Gibran*
+📫 **Open to freelance or remote roles in QA, ERP testing or logistics tech. Let's connect!**
