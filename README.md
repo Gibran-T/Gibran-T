@@ -94,8 +94,14 @@ Postman / REST API Testing   █░░░░░░░░░░░░░░░░
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
+[![Thiago's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gibran-T&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
+> 🧠 Always learning. Always testing. Always improving.
 
 > 🧩 “Building quality through code, one test at a time.” – *Thiago Gibran*  
 > 🔗 [linkedin.com/in/thiago-gibran-a01489b5](https://www.linkedin.com/in/thiago-gibran-a01489b5)
