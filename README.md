@@ -20,14 +20,13 @@ Passionate about automated testing, software quality, and international collabor
 
 ### 📊 This week I worked with:
 
-```
-Python (Pytest, Helpers)     ███████████████████░░   38%
-Selenium (Automation)        ██████████░░░░░░░░░░░░   22%
-Jira (Bug Reports, Tracking) ████████░░░░░░░░░░░░░░   18%
-JavaScript (Frontend)        █████░░░░░░░░░░░░░░░░░   10%
-TypeScript (Next.js, UI)     ████░░░░░░░░░░░░░░░░░░    8%
-Postman / REST API Testing   █░░░░░░░░░░░░░░░░░░░░░    4%
-```
+Python (Pytest, Helpers) ███████████████████░░ 38%
+Selenium (Automation) ██████████░░░░░░░░░░░░ 22%
+Jira (Bug Reports, Tracking) ████████░░░░░░░░░░░░░░ 18%
+JavaScript (Frontend) █████░░░░░░░░░░░░░░░░░ 10%
+TypeScript (Next.js, UI) ████░░░░░░░░░░░░░░░░░░ 8%
+Postman / REST API Testing █░░░░░░░░░░░░░░░░░░░░░ 4%
+
 
 ---
 
@@ -50,28 +49,30 @@ Postman / REST API Testing   █░░░░░░░░░░░░░░░░
 - 🔹 [**urban-routes-regression-tests**](https://github.com/Gibran-T/urban-routes-regression-tests)  
   Full regression test suite for the Urban Routes API. Includes structured bug reports and REST validation.
 
+---
+
 ### 📱 Urban Lunch App Testing
 
-- 🔹 [urban-lunch-mobile-tests](https://github.com/Gibran-T/urban-lunch-mobile-tests)  
+- 🔹 [**urban-lunch-mobile-tests**](https://github.com/Gibran-T/urban-lunch-mobile-tests)  
   End-to-end testing of the Urban Lunch mobile app using exploratory, functional, and interrupt tests.
 
-- 🔹 [urban-lunch-api-tests](https://github.com/Gibran-T/urban-lunch-api-tests)  
+- 🔹 [**urban-lunch-api-tests**](https://github.com/Gibran-T/urban-lunch-api-tests)  
   Manual REST API testing with Postman logic, detailed test coverage, and backend analysis.
 
 ---
 
-### 🧪 QA Bootcamp Sprints (TripleTen Projects)
+### 🎓 QA Bootcamp Sprints (TripleTen Projects)
 
-- 🔹 [sprint-2-form-tests](https://github.com/Gibran-T/sprint-2-form-tests)  
+- 🔹 [**sprint-2-form-tests**](https://github.com/Gibran-T/sprint-2-form-tests)  
   Validation logic for a form-based application. Strong focus on input rules and edge cases.
 
-- 🔹 [sprint-3-ui-tests](https://github.com/Gibran-T/sprint-3-ui-tests)  
+- 🔹 [**sprint-3-ui-tests**](https://github.com/Gibran-T/sprint-3-ui-tests)  
   Exploratory and structured UI tests. Covered layout issues, interaction bugs, and element visibility.
 
-- 🔹 [sprint-4-api-tests](https://github.com/Gibran-T/sprint-4-api-tests)  
+- 🔹 [**sprint-4-api-tests**](https://github.com/Gibran-T/sprint-4-api-tests)  
   Manual API tests on 6+ endpoints with clear bug documentation and regression coverage.
 
-- 🔹 [sprint-6-database-tests](https://github.com/Gibran-T/sprint-6-database-tests)  
+- 🔹 [**sprint-6-database-tests**](https://github.com/Gibran-T/sprint-6-database-tests)  
   Test design focused on database behavior, CRUD logic, and backend validation in real-world scenarios.
 
 ---
@@ -83,14 +84,14 @@ Postman / REST API Testing   █░░░░░░░░░░░░░░░░
 
 ---
 
-### 🧪 Summary Table
+### 📌 Summary Table
 
 | 🧪 Category              | 📁 Repositories |
 |-------------------------|----------------|
 | QA Automation           | 7              |
 | QA Manual + API + DB    | 4              |
 | Frontend / UI Systems   | 1              |
-| Total                   | **13**         |
+| **Total**               | **13**         |
 
 ---
 
