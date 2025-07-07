@@ -43,26 +43,26 @@ Passionate about automated testing, software quality, and international collabor
 
 ## 📱 Urban Lunch Testing Projects
 
-- [urban-lunch-mobile-tests](https://github.com/Gibran-T/urban-lunch-mobile-tests)  
+- [urban-lunch-mobile-tests](https://github.com/Gibran-T/sprint_5_urban_lunch_mobile_app-types)  
   Functional, exploratory and interrupt testing for Urban Lunch Android app.
 
-- [urban-lunch-api-tests](https://github.com/Gibran-T/urban-lunch-api-tests)  
+- [urban-lunch-api-tests](https://github.com/Gibran-T/sprint_4_urban_routes_API_testing)  
   REST API testing using Postman. Manual tests with clear bug reports.
 
 ---
 
 ## 📘 TripleTen Bootcamp Sprints
 
-- [sprint-2-form-tests](https://github.com/Gibran-T/sprint-2-form-tests)  
+- [sprint-2-form-tests](https://github.com/Gibran-T/sprint_2_urban_routes_test_design)  
   Input field validations with edge case testing.
 
-- [sprint-3-ui-tests](https://github.com/Gibran-T/sprint-3-ui-tests)  
+- [sprint-3-ui-tests](https://github.com/Gibran-T/sprint_3_urban_routes_web_tests)  
   Exploratory UI testing: layout, interaction bugs, visibility issues.
 
-- [sprint-4-api-tests](https://github.com/Gibran-T/sprint-4-api-tests)  
+- [sprint-4-api-tests](https://github.com/Gibran-T/sprint_4_urban_routes_API_testing)  
   Manual API test coverage across 6+ endpoints.
 
-- [sprint-6-database-tests](https://github.com/Gibran-T/sprint-6-database-tests)  
+- [sprint-6-database-tests](https://github.com/Gibran-T/sprint_6_banco_de_Dados_logs_urban_routes)  
   Tests for CRUD logic, DB integrity and real-case backend flow.
 
 ---
