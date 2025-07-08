@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Thiago Gibran (Gibran_QA)
+# Hi, I’m Thiago Gibran (Gibran_QA)
 
 🔍 **QA Engineer | ERP & Logistics Expert | Fluent in EN · FR · PT**  
 🇧🇷 Brazilian-born | 🇨🇦 Canadian Citizen | 🌎 Global QA Engineer
