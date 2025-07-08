@@ -7,6 +7,29 @@
 
 ### 🧪 Quality Assurance Specialist
 
+<h2 align="center">📜 Certificates</h2>
+
+<p align="center">Some of the certifications I earned in Data Science and Analytics:</p>
+
+<table align="center" style="border-collapse: separate; border-spacing: 20px;">
+  <tr>
+    <td><img src="./certificates/sql_data_collection_certificate.png" width="350" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" /></td>
+    <td><img src="./certificates/data_visualization_certificate.png" width="350" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" /></td>
+  </tr>
+  <tr>
+    <td><img src="./certificates/aspiring_data_scientist_1.png" width="350" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" /></td>
+    <td><img src="./certificates/aspiring_data_scientist_2.png" width="350" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" /></td>
+  </tr>
+  <tr>
+    <td><img src="./certificates/python_master_certificate.png" width="350" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" /></td>
+    <td><img src="./certificates/machine_learning_certificate.png" width="350" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" /></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="./certificates/data_science_fundamentals_certificate.png" width="350" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" /></td>
+  </tr>
+</table>
+
+
 Passionate about automated testing, software quality, and international collaboration.
 
 - 👨‍💻 **QA Engineer** with experience in Pytest, Selenium, REST API testing, ERP systems, Logistics & Supply Chain  
