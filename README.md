@@ -29,6 +29,14 @@
   </tr>
 </table>
 
+<h3>🔐 Cybersecurity Certifications</h3>
+<ul>
+  <li><a href="https://coursera.org/share/73973086a7b5a7f5f009edaf738bd6ca" target="_blank">🛡️ Google: Foundations of Cybersecurity</a></li>
+  <li><a href="https://coursera.org/share/76784d74c9f1713aff92d259ba5c3040" target="_blank">🔐 Google: Play It Safe – Manage Security Risks</a></li>
+  <li><a href="https://coursera.org/share/5da7c19e0d3359167248888ff3a17c5a" target="_blank">🧰 Google: Tools of the Trade – Linux and SQL</a></li>
+  <li><a href="https://www.credly.com/badges/682aa3cf-f517-4a91-b958-123a99f1bfbe" target="_blank">🎖️ Cisco: CyberOps Associate (Credly)</a></li>
+</ul>
+
 
 Passionate about automated testing, software quality, and international collaboration.
 
@@ -126,6 +134,8 @@ Postman / REST API Testing   █░░░░░░░░░░░░░░░░
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 [![Thiago's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gibran-T&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
