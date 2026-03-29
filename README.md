@@ -2,7 +2,7 @@
 
 # Thiago Gibran
 
-### QA Engineer · ERP & Business Process Specialist · Simulation Architect
+### QA Engineer | ERP Systems & Business Process Testing | SAP, WMS & Logistics | Simulation Architect
 
 *I don't just find bugs. I understand the business processes behind the systems I test.*
 
