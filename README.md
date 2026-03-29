@@ -14,7 +14,7 @@
 
 ---
 
-## 🎯 Who I Am
+##  Who I Am
 
 QA Engineer with hands-on experience designing and validating **enterprise business systems** — from ERP procurement and sales cycles to warehouse management and logistics operations. I build test strategies that reflect real-world workflows, not just UI checklists.
 
