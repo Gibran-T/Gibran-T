@@ -2,7 +2,7 @@
 
 # Thiago Gibran
 
-### QA Engineer | ERP Systems & Business Process Testing | SAP, WMS & Logistics | Simulation Architect
+### QA Engineer | ERP, Logistics & Healthcare Systems | Manual, API & Python Testing | Canada
 
 *I don't just find bugs. I understand the business processes behind the systems I test.*
 
