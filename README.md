@@ -18,7 +18,7 @@
 
 QA Engineer with hands-on experience designing and validating **enterprise business systems** — from ERP procurement and sales cycles to warehouse management and logistics operations. I build test strategies that reflect real-world workflows, not just UI checklists.
 
-Currently teaching ERP simulation at **Collège de la Concorde** (Programme 2 — Information Technology), where I also serve as the developer and QA lead of the platform I built from scratch.
+Currently teaching WMS AND ERP simulation at **Collège de la Concorde** (Programme 1, 2 — Information Technology), where I also serve as the developer and QA lead of the platform I built from scratch.
 
 > **Core identity:** I sit at the intersection of QA Engineering, ERP systems, and business process knowledge. That combination is rare — and it shows in the systems I build and test.
 
