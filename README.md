@@ -153,6 +153,11 @@ DevOps              Git · GitHub Actions · Linux · Docker (basics)
 
 - TripleTen QA Engineering Bootcamp — 9-sprint programme covering manual, API, and automation testing
 - ERP Systems & Digital Transformation — Collège de la Concorde, Programme 2
+- WMS System and Logistics KPI - Collège de la Concorde, Programme 1
+- Cybersecurity by Google
+- Logistics DEC
+- Import - Export
+- full Stack Programming Analyst
 
 ---
 
